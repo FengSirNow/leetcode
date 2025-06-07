@@ -1,9 +1,4 @@
-package com.leetcode.hot100;/**
- * @className: com.leetcode.hot100.Test_238
- * @description: TODO
- * @author: tommy
- * @create: 2025-06-06 10:52
- */
+package com.leetcode.hot100;
 
 import java.util.Arrays;
 
